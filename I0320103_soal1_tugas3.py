@@ -1,7 +1,7 @@
 #TOGAR OBAJA NAINGGOLAN
 #NIM I0320103
 #KELAS C
-#TUgas 3 Soal 1
+#Tugas 3 Soal 1
 
 print('Daftar 10 anggota tim cerdas cermat TI 20')
 list = ['Alvin','Attar','Bagus','Cita','Hasan','Fadhila','Halidya','Raysa','Vicentia','Zafira']
